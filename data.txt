@@ -1,0 +1,16 @@
+bar=LOC_n
+14.16
+bar=LOC_r
+2.04
+bar=NBD_n
+59.86
+bar=NBD_r
+55.11
+bar=SPDK_n
+8.31
+bar=OF_n
+25.69
+bar=OF_r
+16.66
+bar=SPDK_r
+0.33077
