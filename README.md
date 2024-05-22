@@ -3,7 +3,7 @@ Python scrypt to generate bar plot with one bar from each x index.
 
 ## Example Plot
 
-![Example Plot](plot.eps)
+![Example Plot](example.png)
 
 ## Overview
 
